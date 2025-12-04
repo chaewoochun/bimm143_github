@@ -1,5 +1,5 @@
 # BIMM143
-<<<<<<< HEAD
+
 Classwork for BIMM143 at UC San Diego
 =======
 Classwork for [BIMM143 at UC San Diego](https://bioboot.github.io/bimm143_F25/schedule/). During Fall 2025.
